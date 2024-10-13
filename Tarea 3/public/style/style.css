@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+ol, ul {
+    font-family: "Roboto Mono", monospace;
+    color: rgb(55, 80, 255);
+    font-size: 21px;
+    opacity: 50%;
+    border: 5px dotted rgb(55, 80, 255);
+    border-radius: 15px;
+    margin:15px 90px 5px 15px;
+    width: 750px;
+    padding: 5px 5px 5px 40px;
+    background-color: rgb(225, 225, 225);
+}
+
+p {
+    font-family: "Roboto Mono", monospace;
+    color: rgb(55, 80, 255);
+    font-size: 17px;
+    opacity: 70%;
+    border: 2px dotted rgb(55, 80, 255);
+    border-radius: 15px;
+    margin:15px 15px 15px 30px;
+    width: auto;
+    padding: 5px;
+    background-color: rgb(225, 225, 225);
+}
+
+div {
+    color: rgb(75, 80, 255);
+    font-size: 21px;
+    font-family: 'Courier New', Courier, monospace;
+    opacity: 45%;
+    border: 1px solid rgb(75, 80, 255);
+    border-radius: 15px;
+    margin:15px 15px 15px 30px;
+    width: 150px;
+    padding: 5px;
+    background-color: rgb(215, 215, 215);
+}
+
+.h2,h3,h4 {
+    color: rgb(226, 80, 171);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px double rgb(226, 80, 171);
+    border-radius: 15px;
+    margin:15px 15px 15px 30px;
+    width: 350px;
+    padding: 5px 5px 5px 40px;
+    background-color: rgb(225, 225, 225);
+}
+
+#h1 {
+    color: chocolate;
+    font-size: 42px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 5px solid chocolate;
+    border-radius: 17px;
+    margin:50px 50px 15px 50px;
+    width: 350;
+    padding-left: 33%;
+  
+   
+   
+    
+}
+
+body {background-color: rgb(225,200,200);
+opacity: 100%;}
+
+img{
+    border: 5px solid chocolate;
+    border-radius: 17px;
+    margin:50px 50px 15px 50px;
+    width: 600px;
+    padding: auto;
+}
+
+/* 
